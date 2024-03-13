@@ -1,0 +1,3 @@
+[submodule "max31855_micro_python"]
+	path = max31855_micro_python
+	url = git@github.com:nostoslabs/max31855_micro_python.git
