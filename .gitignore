@@ -1,6 +1,10 @@
 .DS_Store
 pulses.txt
 config.py
+*.bin
+*.elf
+*.map
+*.app-bin
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
