@@ -1,3 +1,6 @@
 [submodule "max31855_micro_python"]
 	path = max31855_micro_python
 	url = git@github.com:nostoslabs/max31855_micro_python.git
+[submodule "micropython_pulse_and_frequency_counting_experiments"]
+	path = micropython_pulse_and_frequency_counting_experiments
+	url = git@github.com:nostoslabs/micropython_pulse_and_frequency_counting_experiments.git
