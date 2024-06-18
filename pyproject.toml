@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "icedetector"
+version = "0.1.0"
+description = "Ice Detector code for my PhD thesis."
+authors = ["Markus Kreitzer <markus@kreitzer.dev>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyserial = "^3.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
